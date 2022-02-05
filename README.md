@@ -17,7 +17,7 @@ Pandas, pymystem3, NumPy, matplotlib, collections
 
 We also selected several other parameters that affect prices of the real estate:
 1. 'last_price' is in the range of 1 to 12 million rubles.<br>
-2. 'total_area' is in the range of 20 to 150 $m^2$.<br>
+2. 'total_area' is in the range of 20 to 150 m^2.<br>
 3. 'rooms' is in the range of 1 to 5.<br>
 4. 'ceiling_height' is 2.2 m and 4 m.<br>
 
@@ -41,6 +41,6 @@ Pandas, pymystem3, NumPy, matplotlib, collections
 
 Мы также выбрали несколько других параметров, влияющих на стоимость недвижимости:
 1. 'last_price' находится в диапазоне от 1 до 12 миллионов рублей.<br>
-2. 'total_area' находится в диапазоне от 20 до 150 $м^2$.<br>
+2. 'total_area' находится в диапазоне от 20 до 150 м^2.<br>
 3. 'rooms' находятся в диапазоне от 1 до 5.<br>
 4. 'ceiling_height' находятся в диапазоне  2,2 м и 4 м.<br>
